@@ -1,0 +1,33 @@
+body{
+    background: url("https://i.pinimg.com/originals/90/51/c1/9051c1d2ee30e5aa638ce5886f6dc315.jpg") no-repeat center fixed;-webkit-background-size: cover;
+}
+
+img{
+    margin: 1px auto;
+    display: block;
+}
+
+p{
+    color: dodgerblue;
+    text-align: center;
+}
+
+h3{
+    font-size: 2em;
+    color: goldenrod;
+    text-align: center;
+}
+
+h4{
+    color: gold;
+    font-style: italic;
+    text-align: center;
+    font-size: 2em;
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+    font-style: italic;
+    color: gold;
+}

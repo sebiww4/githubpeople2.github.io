@@ -1,0 +1,53 @@
+span{
+    margin: 0;
+    padding: 0;
+    font-family: consolas;
+    box-sizing: border-box;
+}
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background-color: royalblue
+    
+}
+a{
+    position: relative;
+    display: inline-block;
+    color: white;
+    font-size: 40;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: 0.5s;
+    letter-spacing: 2px;
+}
+
+
+
+a:hover
+{
+    background: white;
+    color: royalblue;
+    box-shadow:  0 0 100px white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

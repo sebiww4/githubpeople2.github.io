@@ -1,0 +1,33 @@
+body{
+    background: url("https://www.zastavki.com/pictures/640x480/2017Space_Planet_Neptune_star_galaxy_112663_29.jpg") no-repeat center fixed;-webkit-background-size: cover;
+}
+
+img{
+    margin: 1px auto;
+    display: block;
+}
+
+p{
+    color: skyblue;
+    text-align: center;
+}
+
+h3{
+    font-size: 2em;
+    color: goldenrod;
+    text-align: center;
+}
+
+h4{
+    color: lightblue;
+    font-style: italic;
+    text-align: center;
+    font-size: 2em;
+}
+
+h1{
+    font-size: 3em;
+    text-align: center;
+    font-style: italic;
+    color: royalblue;
+}
